@@ -162,7 +162,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/__glgapr) - email@example.com
+Your Name - [@__glgapr](https://twitter.com/__glgapr)
 
 Project Link: [https://github.com/GlgApr/All-Delphi-Projects](https://github.com/GlgApr/All-Delphi-Projects)
 
