@@ -66,8 +66,10 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/GlgApr/All-Delphi-Projects)
 
-this is my first project when trying to use borland delphi 7, if you want to contribute please. However, we apologize for using the git template, so not all files in this project are pushed.
+This is my first project when trying to use borland delphi 7, if you want to contribute please. However, we apologize for using the git template, so not all files in this project are pushed.
 If you need the full file, please contact the existing contact, thank you.
+
+### ScreenShot
 
 ![H2 Aritmatika](https://github.com/GlgApr/All-Delphi-Projects/blob/core/Images/h2.png?raw=true)
 
@@ -108,11 +110,7 @@ Select the project you want, please clone or download it directly.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Install delphi. Just do it.
 
 ### Installation
 
